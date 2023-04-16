@@ -67,7 +67,6 @@ $RECYCLE.BIN/
 
 .tmp
 *.log
-*.sql
 *.sqlite
 *.sqlite3
 
@@ -114,4 +113,3 @@ dist
 build
 .strapi-updater.json
 package-lock.json
-config/database.ts
